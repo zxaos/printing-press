@@ -1,3 +1,4 @@
 .bundle
 .kitchen
 vendor
+Gemfile.lock
